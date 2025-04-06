@@ -1,0 +1,12 @@
+[project]
+name = "spacex"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alembic>=1.15.2",
+    "pydantic>=2.11.2",
+    "sqlmodel>=0.0.24",
+    "tqdm>=4.67.1",
+]
