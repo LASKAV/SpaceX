@@ -6,7 +6,11 @@ dist/
 wheels/
 *.egg-info
 
+# Environments
 .env
 
 # Virtual environments
 .venv
+
+# Notebooks
+notebooks
