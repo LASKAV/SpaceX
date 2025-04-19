@@ -14,3 +14,7 @@ wheels/
 
 # Notebooks
 notebooks
+
+.vscode
+.DS_Store
+
