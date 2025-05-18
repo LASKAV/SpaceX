@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+*.csv
 
 # Environments
 .env
@@ -12,9 +13,7 @@ wheels/
 # Virtual environments
 .venv
 
-# Notebooks
-notebooks
-
 .vscode
 .DS_Store
+.
 
